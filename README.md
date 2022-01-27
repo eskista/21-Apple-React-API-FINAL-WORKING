@@ -4,7 +4,7 @@ Apple Website Recreated Using React
 
 # Introduction
 
-This project shows how the current Apple's website can be recreated using React. It also demonstrates how we can use Bootstrap along with React to build a responsive website.
+This project shows how the current (as of 2020) Apple's website can be recreated using React. It also demonstrates how we can use Bootstrap along with React to build a responsive website.
 
 ## Description
 
